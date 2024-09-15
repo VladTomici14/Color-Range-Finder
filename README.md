@@ -17,9 +17,9 @@ This script can help you determine the color ranges for some specific colors tha
 
 ## _How does it work?_
 If you want to know everything about how this works, you need to check up the following links: 
-- [Video and frame processing in Computer Vision]()
-- [Color formats and pixels]()
-- [Masks]()
+- [Video and frame processing in Computer Vision (TBA)]()
+- [Color formats and pixels (TBA)]()
+- [Masks (TBA)]()
 
 Now that you know all of those things, the script works quite simple. We're trying to find 2 color values and to create 
 a range from them. 
