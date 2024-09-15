@@ -20,6 +20,7 @@ If you want to know everything about how this works, you need to check up the fo
 - [Video and frame processing in Computer Vision](https://www.youtube.com/watch?v=AxIc-vGaHQ0)
 - [Color formats and pixels](https://www.youtube.com/watch?v=MmBBVTniWFg)
 - [Masks](https://www.youtube.com/watch?v=2KknXPT5CzA)
+- [Working with pixels](https://pyimagesearch.com/2021/01/20/opencv-getting-and-setting-pixels/)
 
 Now that you know all of those things, the script works quite simple. We're trying to find 2 color values and to create 
 a range from them. 
