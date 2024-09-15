@@ -17,9 +17,9 @@ This script can help you determine the color ranges for some specific colors tha
 
 ## _How does it work?_
 If you want to know everything about how this works, you need to check up the following links: 
-- [Video and frame processing in Computer Vision (TBA)]()
-- [Color formats and pixels (TBA)]()
-- [Masks (TBA)]()
+- [Video and frame processing in Computer Vision](https://www.youtube.com/watch?v=AxIc-vGaHQ0)
+- [Color formats and pixels](https://www.youtube.com/watch?v=MmBBVTniWFg)
+- [Masks](https://www.youtube.com/watch?v=2KknXPT5CzA)
 
 Now that you know all of those things, the script works quite simple. We're trying to find 2 color values and to create 
 a range from them. 
@@ -40,9 +40,13 @@ This is a Python script, so firstly you need to have Python 3.11 installed.
 To install all the Python packages that are used for this project, you need to run the next commands. 
 
 ```bash
-pip install opencv-python
+pip install python3-opencv
 pip install numpy
 ```
+
+The install may vary regarding the system that you're using (Windows, MacOS, Linux, etc.). If you have any trouble 
+installing the necessary libraries, check-out these links: 
+
 
 ## _Script setup_
 If the script does not run or shows a black screen instead of your beautiful face, the camera should be set. You can 
